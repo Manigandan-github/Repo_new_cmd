@@ -2,4 +2,4 @@ THIS IS THE FILE CREATED IN GIT BASH DESKTOP
 
 
 This is the second line after the addition to the staging area.
-Third line
+Third lineAgging a line in file1.txt
